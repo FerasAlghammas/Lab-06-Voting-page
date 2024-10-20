@@ -1,0 +1,75 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+h1 , h2 , h3 {
+    text-align: center;
+
+}
+
+.Head{
+    background-color: gold;
+}
+
+.LikeAndDislikeButtonsBox{
+    text-align: center;
+
+}
+
+.CommentsBox{
+    text-align: center;
+    padding-top: 3%;
+}
+
+#Comment{
+    height: 8cm;
+    width: 15cm;
+    border-color: rgb(255, 221, 0);
+}
+
+.SubmitAndResetButtonsBox{
+    text-align: center;
+    padding-top: 8%;
+
+}
+
+#LikeButton{
+    height: 40px;
+    width: 50px;
+    border: 2px solid gold;
+    
+}
+
+
+
+#DislikeButton{
+    height: 40px;
+    width: 60px;
+    border: 2px solid gold;
+}
+
+
+#SubmitButton{
+    height: 40px;
+    width: 100px;
+    border: 2px solid gold;
+}
+
+
+#resetButton{
+    height: 40px;
+    width: 50px;
+    border: 2px solid gold;
+}
+
+.commentDisplay{
+    border: 2px solid gold;
+    margin-top: 8%;
+}
+
+.commentDisplay ul{
+    text-align: center;
+    
+}
